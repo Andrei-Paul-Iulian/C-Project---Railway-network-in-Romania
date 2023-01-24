@@ -1,2 +1,1 @@
-# C-Project---Railway-network-in-Romania
-Representation of the railway network in Romania with the help of oriented graphs
+Fisierele .c si .h sunt mai jos in folderul Problema lab
