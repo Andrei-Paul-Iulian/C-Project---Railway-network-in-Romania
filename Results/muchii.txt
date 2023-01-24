@@ -1,0 +1,2 @@
+692 - graf neorientat
+851 - graf orientat
